@@ -1,0 +1,802 @@
+{
+  "webScreen": {
+    "offerta": {
+      "config": {
+        "type": "standard",
+        "remoteIcon": "https://homer-assets.s3.eu-west-1.amazonaws.com/icons_app/offerta_color.png",
+        "icon": "offerta_color",
+        "safeAreaTop": false,
+        "safeAreaBottom": false,
+        "buttonBack": true,
+        "buttonClose": false,
+        "buttonsOverlayed": true
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        },
+        "sv-SE": {
+            "header": "",
+            "title": "",
+            "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        },
+        "de": {
+            "header": "",
+            "title": "",
+            "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        },
+        "es": {
+            "header": "",
+            "title": "",
+            "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        },
+        "fr": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        },
+        "it": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        },
+        "da": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        },
+        "nb": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se/?utm_source=homer&utm_medium=partner&utm_campaign=homer"
+        }
+      }
+    },
+    "bookFixer": {
+      "config": {
+        "type": "standard",
+        "icon": false,
+        "safeAreaTop": false,
+        "safeAreaBottom": false,
+        "buttonBack": true,
+        "buttonClose": false,
+        "buttonsOverlayed": true
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://swedish-service-screen.lovable.app/"
+        },
+        "sv-SE": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://swedish-service-screen.lovable.app/"
+        },
+        "de": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://swedish-service-screen.lovable.app/"
+        },
+        "es": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://swedish-service-screen.lovable.app/"
+        },
+        "fr": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se"
+        },
+        "it": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se"
+        },
+        "da": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se"
+        },
+        "nb": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://offerta.se"
+        }
+      }
+    },
+    "weather": {
+      "config": {
+        "type": "standard",
+        "icon": false,
+        "safeAreaTop": false,
+        "safeAreaBottom": false,
+        "buttonBack": true,
+        "buttonClose": false,
+        "buttonsOverlayed": true
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        },
+        "sv-SE": {
+            "header": "",
+            "title": "",
+            "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        },
+        "de": {
+            "header": "",
+            "title": "",
+            "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        },
+        "es": {
+            "header": "",
+            "title": "",
+            "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        },
+        "fr": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        },
+        "it": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        },
+        "da": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        },
+        "nb": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://weather-homer.lovable.app/"
+        }
+      }
+    },
+      "lfOffers": {
+        "config": {
+        "type": "standard",
+        "icon": false,
+        "safeAreaTop": true,
+        "safeAreaBottom": false,
+        "buttonBack": true,
+        "buttonClose": false,
+        "buttonsOverlayed": true
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "sv-SE": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "de": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "es": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "fr": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "it": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "da": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "nb": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        }
+      }
+    },
+        "lfOffersTab": {
+        "config": {
+        "type": "tabScreen",
+        "icon": false,
+        "safeAreaTop": false,
+        "safeAreaBottom": false,
+        "buttonBack": false,
+        "buttonClose": false,
+        "buttonsOverlayed": false
+      },
+      "locale": {
+        "en-GB": {
+          "header": "Offers",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "sv-SE": {
+            "header": "Erbjudanden",
+            "title": "",
+            "description": "",
+            "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "de": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "es": {
+            "header": "",
+            "title": "",
+            "description": "",
+            "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "fr": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "it": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "da": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        },
+        "nb": {
+            "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.lansforsakringar.se/privat/om-oss/erbjudanden/"
+        }
+      }
+    },
+    "usaaLogin": {
+      "config": {
+        "type": "standard",
+        "icon": true,
+        "safeAreaTop": true,
+        "safeAreaBottom": false,
+        "buttonBack": true,
+        "buttonClose": false,
+        "buttonsOverlayed": true
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "Sign in to ASAA",
+          "description": "This is where your journey begins",
+          "url": "https://usaa.com/en/login"
+        },
+        "sv-SE": {
+          "header": "",
+          "title": "Logga in på ASAA",
+          "description": "Här börjar din resa",
+          "url": "https://usaa.com/en/login"
+        },
+        "de": {
+          "header": "",
+          "title": "Melden Sie sich bei ASAA an",
+          "description": "Hier beginnt Ihr Abenteuer",
+          "url": "https://usaa.com/en/login"
+        },
+        "es": {
+          "header": "",
+          "title": "Inicia sesión en ASAA",
+          "description": "Aquí comienza tu viaje",
+          "url": "https://usaa.com/es/login"
+        },
+        "fr": {
+          "header": "",
+          "title": "Connectez-vous à ASAA",
+          "description": "C'est ici que tout commence",
+          "url": "https://usaa.com/en/login"
+        },
+        "it": {
+          "header": "",
+          "title": "Accedi a ASAA",
+          "description": "Qui inizia il tuo viaggio",
+          "url": "https://usaa.com/en/login"
+        },
+        "da": {
+          "header": "",
+          "title": "Log ind på ASAA",
+          "description": "Her starter din rejse",
+          "url": "https://usaa.com/en/login"
+        },
+        "nb": {
+          "header": "",
+          "title": "Logg inn på ASAA",
+          "description": "Her begynner reisen din",
+          "url": "https://usaa.com/en/login"
+        }
+      }
+    },
+    "usaaMember": {
+      "config": {
+        "type": "tabScreen",
+        "icon": false,
+        "safeAreaTop": false,
+        "safeAreaBottom": false,
+        "buttonBack": false,
+        "buttonClose": false,
+        "buttonsOverlayed": false
+      },
+      "locale": {
+        "en-GB": {
+          "header": "Member",
+          "title": "",
+          "description": "",
+          "url": "https://usaa.com/en/login"
+        },
+        "sv-SE": {
+          "header": "Medlem",
+          "title": "",
+          "description": "",
+          "url": "https://usaa.com/en/login"
+        },
+        "de": {
+          "header": "Mitglied",
+          "title": "Melden Sie sich bei ASAA an",
+          "description": "Hier beginnt Ihr Abenteuer",
+          "url": "https://usaa.com/en/login"
+        },
+        "es": {
+          "header": "Miembro",
+          "title": "",
+          "description": "",
+          "url": "https://usaa.com/es/login"
+        },
+        "fr": {
+          "header": "Membre",
+          "title": "",
+          "description": "",
+          "url": "https://usaa.com/en/login"
+        },
+        "it": {
+          "header": "Membro",
+          "title": "",
+          "description": "",
+          "url": "https://usaa.com/en/login"
+        },
+        "da": {
+          "header": "Medlem",
+          "title": "",
+          "description": "",
+          "url": "https://usaa.com/en/login"
+        },
+        "nb": {
+          "header": "Medlem",
+          "title": "",
+          "description": "",
+          "url": "https://usaa.com/en/login"
+        }
+      }
+    },
+    "astateEstimates": {
+      "config": {
+        "type": "tabScreen",
+        "icon": false,
+        "safeAreaTop": false,
+        "safeAreaBottom": false,
+        "buttonBack": false,
+        "buttonClose": false,
+        "buttonsOverlayed": false
+      },
+      "locale": {
+        "en-GB": {
+          "header": "Estimates Overview",
+          "title": "",
+          "description": "",
+          "url": "https:/astate.com/en/estimates"
+        },
+        "sv-SE": {
+          "header": "Översikt av uppskattningar",
+          "title": "",
+          "description": "",
+          "url": "https:/astate.com/en/estimates"
+        },
+        "de": {
+          "header": "Schätzungen Überblick",
+          "title": "",
+          "description": "",
+          "url": "https:/astate.com/en/estimates"
+        },
+        "es": {
+          "header": "Resumen de Estimaciones",
+          "title": "",
+          "description": "",
+          "url": "https:/astate.com/en/estimates"
+        },
+        "fr": {
+          "header": "Aperçu des estimations",
+          "title": "",
+          "description": "",
+          "url": "https:/astate.com/en/estimates"
+        },
+        "it": {
+          "header": "",
+          "title": "",
+          "description": "Accedi a tutte le tue stime qui",
+          "url": "https:/astate.com/en/estimates"
+        },
+        "da": {
+          "header": "",
+          "title": "",
+          "description": "Få adgang til alle dine estimater her",
+          "url": "https:/astate.com/en/estimates"
+        },
+        "nb": {
+          "header": "",
+          "title": "",
+          "description": "Få tilgang til alle estimatene dine her",
+          "url": "https:/astate.com/en/estimates"
+        }
+      }
+    },
+    "madeliaFireSafety": {
+      "config": {
+        "type": "tabScreen",
+        "icon": false,
+        "safeAreaTop": true,
+        "safeAreaBottom": false,
+        "buttonBack": false,
+        "buttonClose": false,
+        "buttonsOverlayed": false
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        },
+        "sv-SE": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        },
+        "de": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        },
+        "es": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        },
+        "fr": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        },
+        "it": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        },
+        "da": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        },
+        "nb": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/fire-safety"
+        }
+      }
+    },
+    "madeliaValuation": {
+      "config": {
+        "type": "tabScreen",
+        "icon": false,
+        "safeAreaTop": true,
+        "safeAreaBottom": false,
+        "buttonBack": false,
+        "buttonClose": false,
+        "buttonsOverlayed": false
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "sv-SE": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "de": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "es": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "fr": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "it": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "da": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "nb": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        }
+      }
+    },
+    "madeliaValuationStandard": {
+      "config": {
+        "type": "standard",
+        "icon": true,
+        "safeAreaTop": true,
+        "safeAreaBottom": false,
+        "buttonBack": true,
+        "buttonClose": false,
+        "buttonsOverlayed": true
+      },
+      "locale": {
+        "en-GB": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "sv-SE": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "de": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "es": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "fr": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "it": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "da": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        },
+        "nb": {
+          "header": "",
+          "title": "",
+          "description": "",
+          "url": "https://www.madelia.us/valuation"
+        }
+      }
+    }
+  },
+  "tabItem": {
+    "usaaTab": {
+      "config": {
+        "webScreenKey": "usaaMember"
+      },
+      "locale": {
+        "en-GB": {
+          "tabItem": "Member"
+        },
+        "sv-SE": {
+          "tabItem": "Medlem"
+        },
+        "de": {
+          "tabItem": "Mitglied"
+        },
+        "es": {
+          "tabItem": "Miembro"
+        },
+        "fr": {
+          "tabItem": "Membre"
+        },
+        "it": {
+          "tabItem": "Membro"
+        },
+        "da": {
+          "tabItem": "Medlem"
+        },
+        "nb": {
+          "tabItem": "Medlem"
+        }
+      }
+    },
+    "astateTab": {
+      "config": {
+        "webScreenKey": "astateEstimates"
+      },
+      "locale": {
+        "en-GB": {
+          "tabItem": "Estimates"
+        },
+        "sv-SE": {
+          "tabItem": "Uppskattningar"
+        },
+        "de": {
+          "tabItem": "Schätzungen"
+        },
+        "es": {
+          "tabItem": "Estimaciones"
+        },
+        "fr": {
+          "tabItem": "Estimations"
+        },
+        "it": {
+          "tabItem": "Stime"
+        },
+        "da": {
+          "tabItem": "Estimater"
+        },
+        "nb": {
+          "tabItem": "Estimater"
+        }
+      }
+    },
+    "madeliaFireSafetyTab": {
+      "config": {
+        "webScreenKey": "madeliaFireSafety"
+      },
+      "locale": {
+        "en-GB": {
+          "tabItem": "Fire Safety"
+        },
+        "sv-SE": {
+          "tabItem": "Fire Safety"
+        },
+        "de": {
+          "tabItem": "Fire Safety"
+        },
+        "es": {
+          "tabItem": "Fire Safety"
+        },
+        "fr": {
+          "tabItem": "Fire Safety"
+        },
+        "it": {
+          "tabItem": "Fire Safety"
+        },
+        "da": {
+          "tabItem": "Fire Safety"
+        },
+        "nb": {
+          "tabItem": "Fire Safety"
+        }
+      }
+    },
+    "madeliaValuationTab": {
+      "config": {
+        "webScreenKey": "madeliaValuation"
+      },
+      "locale": {
+        "en-GB": {
+          "tabItem": "Valuation"
+        },
+        "sv-SE": {
+          "tabItem": "Valuation"
+        },
+        "de": {
+          "tabItem": "Valuation"
+        },
+        "es": {
+          "tabItem": "Valuation"
+        },
+        "fr": {
+          "tabItem": "Valuation"
+        },
+        "it": {
+          "tabItem": "Valuation"
+        },
+        "da": {
+          "tabItem": "Valuation"
+        },
+        "nb": {
+          "tabItem": "Valuation"
+        }
+      }
+    }
+  }
+}
